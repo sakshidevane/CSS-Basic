@@ -1,0 +1,39 @@
+body{
+    background-image:url(https://www.pixelstalk.net/wp-content/uploads/images2/Light-Wallpaper-Screensaver-HD-Downloads.png) ;
+}
+#main{
+width: fit-content;
+text-align:center;
+border: 2px solid black;
+background-color: aqua;
+color:brown;
+}
+#red{
+color:red;}
+#green{
+ color:green;}
+#blue{
+ color:blue;}
+#color{
+    color:black;
+    }
+    #one{
+        background-color:red;
+        }
+        #two{
+            background-color:green;
+            }
+            #three{
+                background-color:blue;
+                }
+                #four{
+                    background-color:yellow;
+                    } #five{
+                        background-color:magenta;
+                        }
+                        #six{
+                            background-color:cyan;
+                            }
+                            #seven{
+                                background-color:white;
+                                }
